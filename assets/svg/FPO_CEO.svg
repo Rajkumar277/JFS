@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="385.372" height="460.104" viewBox="0 0 385.372 460.104">
+  <g id="Group_22" data-name="Group 22" transform="translate(1215 306.074)">
+    <g id="Group_21" data-name="Group 21" transform="translate(-0.319)">
+      <path id="Path_3" data-name="Path 3" d="M399.954,313.834c-16.775,0-89.643-43.327-84.719-146.719s96.5-89.607,96.5-89.607" transform="translate(-1421.677 -375.897)" fill="none" stroke="#000" stroke-width="14"/>
+      <path id="Path_4" data-name="Path 4" d="M326.778,313.834c16.775,0,89.643-43.327,84.719-146.719s-93.624-89.673-93.624-89.673" transform="translate(-1349.257 -375.897)" fill="none" stroke="#000" stroke-width="14"/>
+    </g>
+    <g id="Group_17" data-name="Group 17">
+      <g id="Group_16" data-name="Group 16" transform="translate(0.5)">
+        <path id="Path_5" data-name="Path 5" d="M347.862,442l61.051,156.988L473.9,442" transform="translate(-1433.362 -492.33)" fill="none" stroke="#000" stroke-width="14"/>
+        <g id="Group_15" data-name="Group 15" transform="translate(219 -96)">
+          <path id="Path_6" data-name="Path 6" d="M347.862,541.854,364.906,442l18.143,99.854" transform="translate(-1608.462 -384.492)" fill="none" stroke="#000" stroke-width="14"/>
+          <rect id="Rectangle_1" data-name="Rectangle 1" width="54.315" height="15.838" transform="translate(-1270 45.67)"/>
+        </g>
+      </g>
+      <g id="Group_2" data-name="Group 2" transform="translate(-1208 -78.465)">
+        <path id="Path_1" data-name="Path 1" d="M355.832,627.092H169.689V527.638c0-29.688,17.656-69.178,81.73-86.653S321.332,401.6,321.332,401.6" transform="translate(-169.689 -401.597)" fill="none" stroke="#000" stroke-width="14"/>
+        <path id="Path_7" data-name="Path 7" d="M169.689,627.092H355.832V527.638c0-29.688-17.656-69.178-81.73-86.653S204.189,401.6,204.189,401.6" transform="translate(15.541 -401.597)" fill="none" stroke="#000" stroke-width="14"/>
+      </g>
+    </g>
+    <path id="Path_8" data-name="Path 8" d="M-287.057,192.079c29.541-16.74,46.281-30.526,98.469-8.862s63.02,8.862,63.02,8.862" transform="translate(-816.443 -413.852)" fill="none" stroke="#000" stroke-width="14"/>
+  </g>
+</svg>

@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>JFARMS</title>
+  <base href="/JFarm">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#1976d2">
+    <!-- ... other head elements ... -->
+  <style>
+    /* Add basic styling for your loader here so it shows up immediately */
+    #global-loader {
+      position: fixed;
+      width: 100%;
+      height: 100%;
+      left: 0;
+      top: 0;
+      background-color: rgba(255, 255, 255, 0.8);
+      z-index: 9999;
+      display: none;
+      justify-content: center;
+      align-items: center;
+    }
+    .spinner {
+      /* Your spinner CSS (e.g., using a CSS keyframe animation or an image) */
+      border: 4px solid rgba(0, 0, 0, 0.1);
+      border-top: 4px solid #3498db;
+      border-radius: 50%;
+      width: 40px;
+      height: 40px;
+      animation: spin 1s linear infinite;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+
+  <script type="text/javascript">
+
+    var global = global || window;
+    var Buffer = Buffer || [];
+    var process = process || {
+      env: { DEBUG: undefined },
+      version: []
+    };
+
+  </script>
+  <!-- Piwik Code -->
+  <script type="text/javascript">
+    var _paq = window._paq = window._paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+    _paq.push(["setCookieDomain", "*.jfarmservices.com"]);
+    _paq.push(["setDomains", ["*.jfarmservices.com"]]);
+    _paq.push(["setDoNotTrack", true]);
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function () {
+      var u = "https://trace.tafe.com/";
+      _paq.push(['setTrackerUrl', u + 'matomo.php']);
+      _paq.push(['setSiteId', '9']);
+      var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+      g.type = 'text/javascript'; g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g, s);
+    })();
+  </script>
+
+  <noscript>
+    <p><img src="https://trace.tafe.com/matomo.php?idsite=9&amp;rec=1" style="border:0;" alt="" /></p>
+  </noscript>
+  <!-- End Matomo Code -->
+<link rel="stylesheet" href="styles.83c583396d1cd75dafde.css" crossorigin="use-credentials"></head>
+
+<body oncontextmenu="return false;">
+   <!-- <div id="global-loader">
+    <div class="spinner"></div>
+  </div> -->
+  <app-root></app-root>
+  <!-- Please Enable corodva.js script in before 'Build Android File' -->
+  <!-- <script type="text/javascript" src="cordova.js"></script> -->
+
+  <!--  <noscript>Please enable JavaScript to continue using this application.</noscript> -->
+<script src="runtime-es2015.1325c2a624b8e001207f.js" crossorigin="use-credentials" type="module"></script><script src="polyfills-es2015.aa0159c30890430c6766.js" crossorigin="use-credentials" type="module"></script><script src="runtime-es5.776c0e340059463a9ceb.js" crossorigin="use-credentials" nomodule defer></script><script src="polyfills-es5.a67d4199b6d6da679b1e.js" crossorigin="use-credentials" nomodule defer></script><script src="scripts.8aa623aca731df5f3013.js" crossorigin="use-credentials" defer></script><script src="main-es2015.429f6b094d2168a6988c.js" crossorigin="use-credentials" type="module"></script><script src="main-es5.aad142565947f407b4a8.js" crossorigin="use-credentials" nomodule defer></script></body>
+
+</html>

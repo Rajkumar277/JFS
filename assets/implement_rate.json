@@ -1,0 +1,445 @@
+[{
+        "implement": "Baler",
+        "Min_price": 2000,
+        "Max_price": 2800,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Bund Former",
+        "Min_price": 800,
+        "Max_price": 1300,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Cage Wheel",
+        "Min_price": 600,
+        "Max_price": 1200,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Chaff Cutter",
+        "Min_price": 300,
+        "Max_price": 800,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Chakra",
+        "Min_price": 1000,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Chisel Plough (Totta Plough)",
+        "Min_price": 1000,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Chisel Plough (Totta)",
+        "Min_price": 1000,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Cotton Planter",
+        "Min_price": 1300,
+        "Max_price": 2000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Cultivator",
+        "Min_price": 800,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Dal Mill",
+        "Min_price": 800,
+        "Max_price": 1000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Disc Harrow",
+        "Min_price": 800,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Disc Plough",
+        "Min_price": 700,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Dolu Tara",
+        "Min_price": 800,
+        "Max_price": 1000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Dozer",
+        "Min_price": 1000,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Drone Sprayer",
+        "Min_price": 300,
+        "Max_price": 800,
+        "Unit": "Per Acre"
+    },
+    {
+        "implement": "Duck Foot Cultivator",
+        "Min_price": 800,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Fertilizer Spreader",
+        "Min_price": 300,
+        "Max_price": 500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Flour Mill",
+        "Min_price": 400,
+        "Max_price": 800,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Garlic Planter",
+        "Min_price": 1000,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Grass Cutter",
+        "Min_price": 1000,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Groundnut Digger",
+        "Min_price": 700,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Happy Seeder",
+        "Min_price": 1800,
+        "Max_price": 2300,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Harvester",
+        "Min_price": 2000,
+        "Max_price": 3000,
+        "Unit": "Per Acre"
+    },
+    {
+        "implement": "Hauler",
+        "Min_price": 400,
+        "Max_price": 800,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "JCB",
+        "Min_price": 1000,
+        "Max_price": 1800,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Laser Leveller",
+        "Min_price": 1200,
+        "Max_price": 2000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Leveller Blade",
+        "Min_price": 800,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Loader",
+        "Min_price": 800,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Maize Sheller",
+        "Min_price": 600,
+        "Max_price": 800,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Maize Thresher",
+        "Min_price": 1000,
+        "Max_price": 1800,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Manual seed drill",
+        "Min_price": 500,
+        "Max_price": 1200,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "MB Plough",
+        "Min_price": 800,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Mud Loader",
+        "Min_price": 1000,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Mulcher",
+        "Min_price": 1200,
+        "Max_price": 2000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Multi Crop Garlic Planter",
+        "Min_price": 1200,
+        "Max_price": 1600,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Pneumatic Planter",
+        "Min_price": 1000,
+        "Max_price": 2000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Post Hole Digger",
+        "Min_price": 1200,
+        "Max_price": 2000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Potato Digger",
+        "Min_price": 1000,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Potato Planter",
+        "Min_price": 1000,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Power Harrow",
+        "Min_price": 800,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Power Tiller",
+        "Min_price": 800,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Power Weeder",
+        "Min_price": 600,
+        "Max_price": 1200,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Raised Bed Planter",
+        "Min_price": 1000,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Reaper",
+        "Min_price": 800,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Reaper Binder",
+        "Min_price": 1000,
+        "Max_price": 2000,
+        "Unit": "Per Acre"
+    },
+    {
+        "implement": "Reversible MB Plough",
+        "Min_price": 1000,
+        "Max_price": 2000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Rice Mill",
+        "Min_price": 900,
+        "Max_price": 1800,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Rice Transplanter",
+        "Min_price": 2000,
+        "Max_price": 3000,
+        "Unit": "Per Acre"
+    },
+    {
+        "implement": "Ridge fertilizer Drill-cum-Planter",
+        "Min_price": 800,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Ridge Furrow Seed cum Fertilizer Drill",
+        "Min_price": 800,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Rotary Slasher",
+        "Min_price": 1000,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Rotary Tiller",
+        "Min_price": 1200,
+        "Max_price": 2000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Rototiller",
+        "Min_price": 1200,
+        "Max_price": 2000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Seed Drill",
+        "Min_price": 1000,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Shredder",
+        "Min_price": 1200,
+        "Max_price": 1800,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Sprayer",
+        "Min_price": 800,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Straw Rake",
+        "Min_price": 1000,
+        "Max_price": 1500,
+        "Unit": "Per Acre"
+    },
+    {
+        "implement": "Straw Reaper",
+        "Min_price": 2000,
+        "Max_price": 3000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Sub Soiler",
+        "Min_price": 800,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Sub soiler 1 or 2 Tyne",
+        "Min_price": 800,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Sugarcane Harvester",
+        "Min_price": 3000,
+        "Max_price": 3500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Sugarcane Planter",
+        "Min_price": 700,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Sugarcane Weeder",
+        "Min_price": 400,
+        "Max_price": 800,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Super Seeder",
+        "Min_price": 1800,
+        "Max_price": 2500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Tanker",
+        "Min_price": 800,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Thresher",
+        "Min_price": 1000,
+        "Max_price": 2000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Totta Plough",
+        "Min_price": 700,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Trolley",
+        "Min_price": 500,
+        "Max_price": 1000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Turmeric boiler",
+        "Min_price": 500,
+        "Max_price": 1000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Turmeric sieving machine",
+        "Min_price": 600,
+        "Max_price": 1200,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Water Pump",
+        "Min_price": 400,
+        "Max_price": 1000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Weeder",
+        "Min_price": 500,
+        "Max_price": 1000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Wood Chipper",
+        "Min_price": 1500,
+        "Max_price": 2000,
+        "Unit": "Per Hour"
+    },
+    {
+        "implement": "Zero Till Seed Drill",
+        "Min_price": 1000,
+        "Max_price": 1500,
+        "Unit": "Per Hour"
+    }
+]
